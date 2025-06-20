@@ -12,6 +12,10 @@ A complete data analytics and machine learning project analyzing U.S. tech stock
 
 ---
 
+![Stock Price Trend](images/Prices_OverTime.png)
+
+---
+
 ## 🛠️ Tools & Libraries Used
 
 - **Python**, **Pandas**, **NumPy**
