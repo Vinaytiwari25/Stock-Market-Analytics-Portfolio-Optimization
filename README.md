@@ -16,6 +16,30 @@ A complete data analytics and machine learning project analyzing U.S. tech stock
 
 ---
 
+![Stock Price Trend](images/Daily_Returns.png)
+
+---
+
+![Stock Price Trend](images/Correlation_Matrix.png)
+
+---
+
+![Stock Price Trend](images/Risk_vs_Return.png)
+
+---
+
+![Stock Price Trend](images/Confusion_Matrix.png)
+
+---
+
+![Stock Price Trend](images/Sharpe_Ratio.png)
+
+---
+
+![Stock Price Trend](images/Efficient_Frontier.png)
+
+---
+
 ## 🛠️ Tools & Libraries Used
 
 - **Python**, **Pandas**, **NumPy**
